@@ -11,3 +11,10 @@ let kurangdarisatu = 10 <= 5;
 // ini perbandingan ternary operator
 
 console.log(perbandingan);
+console.log(samadengan);
+console.log(tidaksamadengan);
+console.log(lebihsatu);
+console.log(kurangdarisatu);
+
+let mahasiswa = false;
+mahasiswa ? console.log("akumahasiswa") : console.log("akubukanmahasiswa");
