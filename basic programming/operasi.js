@@ -4,7 +4,7 @@ console.log(myangka);
 let myname = "novi" + " sriramadhani";
 console.log(myname);
 
-let firstname = "novita sri";
+let firstname = "novita sris";
 let lastname = "ramadhani";
 let fulname = firstname + " " + lastname;
 console.log(fulname);
