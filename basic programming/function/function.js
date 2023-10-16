@@ -19,3 +19,20 @@ function kalkulasi(a, b, fungsi) {
   return fungsi(a, b);
 }
 console.log(kalkulasi(3, 5, pengurangan));
+
+function pembagian(a, b) {
+  return a / b;
+}
+console.log(pembagian(6, 2));
+
+function angka(angkaAwal, angkaAkhir) {
+  for (let index = 1; index <= 20; index++) {
+    console.log(index);
+  }
+}
+angka(1, 20);
+
+function pangkat2(angka) {
+  return 5 * 5;
+}
+console.log(pangkat2(5));
